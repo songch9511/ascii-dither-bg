@@ -2,7 +2,7 @@ import { useEffect, useRef } from "react"
 import { addPropertyControls, ControlType } from "framer"
 
 const DEFAULT_SCRIPT_URL =
-    "https://cdn.jsdelivr.net/gh/songch9511/ascii-dither-bg@v1.0.0/ascii-dither-background.js"
+    "https://cdn.jsdelivr.net/gh/songch9511/ascii-dither-bg@v1.0.2/ascii-dither-background.js"
 
 /**
  * ASCII Dither Background — fills the parent container at any width.
